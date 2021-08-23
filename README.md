@@ -6,7 +6,7 @@ Please note that our samples are playgrounds for the minimal API team to play ar
 - [An attempt at a tutorial](https://github.com/Minimal-APIs/samples): A work in progress that works you through how to use minimal APIs. Focusing on end to end minimal apps.
 - [Core scenarios](): Linking coming soon. In these samples we will go over things like Open APIs, Authorization, validation, deployment etc 
 ## Quick start docs 
-- [Docs](https://minimal-apis.github.io/)
+- [Docs](https://minimal-apis.github.io/) - Work in progress.
 # Blog posts 
 - [.NET 6 Preview 4 ](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/)
 - [.NET 6  Preview 6](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-6/)
